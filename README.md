@@ -12,8 +12,9 @@ SQL/R/Talend/SSIS/SSAS/Tableau
 
 ## Files:
 1. Goal Document
-2. ETL Mapping document
-3. Data profiling files
-4. Data cleaning files
-5. Tableau package
-6. Project presentation
+2. Functional project background document
+3. ETL Mapping document
+4. Data profiling files
+5. Data cleaning files
+6. Tableau package
+7. Project presentation
