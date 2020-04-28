@@ -15,6 +15,6 @@ SQL/R/Talend/SSIS/SSAS/Tableau
 2. Functional project background document
 3. ETL Mapping document
 4. Data profiling files
-5. Data cleaning files
+5. Data cleaning SQL files and documentation
 6. Tableau package
 7. Project presentation
