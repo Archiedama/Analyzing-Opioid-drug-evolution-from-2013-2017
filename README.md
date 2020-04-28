@@ -16,5 +16,7 @@ SQL/R/Talend/SSIS/SSAS/Tableau
 3. ETL Mapping document
 4. Data profiling files
 5. Data cleaning SQL files and documentation
-6. Tableau package
-7. Project presentation
+6. SSIS Packages
+7. Dimensional modelling files
+8. Tableau package
+9. Project presentation
